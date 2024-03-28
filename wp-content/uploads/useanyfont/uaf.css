@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'gotham-rndmed';
+					src: url('/galloningegneria/wp-content/uploads/useanyfont/7009Gotham-RndMed.woff2') format('woff2'),
+						url('/galloningegneria/wp-content/uploads/useanyfont/7009Gotham-RndMed.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gotham-rndmed{font-family: 'gotham-rndmed' !important;}
+
+		
